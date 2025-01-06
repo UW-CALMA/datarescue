@@ -1,18 +1,10 @@
 ---
-description: Readings and tools available online
+description: >-
+  References included in the Gitbook as well as other notable research findings
+  and reflections
 ---
 
-# 🛠️ Resources & Tools
-
-### Tools
-
-* Making signed BagIt files: [https://github.com/harvard-lil/bag-nabit](https://github.com/harvard-lil/bag-nabit)
-* https://github.com/climate-mirror/climate-mirror-tools
-* [https://www.datalumos.org/](https://www.datalumos.org/) - has simple drag and drop add tags and basic metadata
-* https://www.sucho.org/ This is another initiative which was focused on Ukrainian Digital Cultural Heritage. It was kind of modelled off of Data rescue v01 but a little more broad in terms of what to “save” and there were different threats, because the physical infrastructure was also in danger
-* Harvard Library Innovation Lab seeking Government Datasets for Preservation form [https://docs.google.com/forms/d/11qyuKUEkbh0OPNyAyMVCXviiSDTYYA4RLdIlTnWNiTE/edit](https://docs.google.com/forms/d/11qyuKUEkbh0OPNyAyMVCXviiSDTYYA4RLdIlTnWNiTE/edit)
-
-### References
+# Readings
 
 ClimateWire, S. W. (n.d.). Climate Web Pages Erased and Obscured under Trump. Scientific American. Retrieved January 3, 2025, from[ https://www.scientificamerican.com/article/climate-web-pages-erased-and-obscured-under-trump/](https://www.scientificamerican.com/article/climate-web-pages-erased-and-obscured-under-trump/)
 
