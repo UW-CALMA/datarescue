@@ -18,7 +18,7 @@ The following Gitbook pages include:
 * A growing list of [Learning Resources](https://docs.google.com/document/d/1WzwaEl0BReGwFT-sQW_DM5lD9bKVtw7duoNbCMBvvsw/edit?tab=t.0#heading=h.5uoktqwf0zoj) (readings and tools)
 * [Contact information](https://docs.google.com/document/d/1WzwaEl0BReGwFT-sQW_DM5lD9bKVtw7duoNbCMBvvsw/edit?tab=t.0#heading=h.kh20zm7am2l2) to connect with other relevant networks and communities
 
-If you are a gitbook community member, you are invited to comment and suggest ideas and updates to this site. **Submit Change Requests** through the Data Rescue GitHub repository at: [https://github.com/nguyen-info/datarescue/tree/main](https://github.com/nguyen-info/datarescue/tree/main)
+You are invited to comment and suggest ideas and updates to this site. **Submit Change Requests** through the Data Rescue GitHub repository at: [https://github.com/nguyen-info/datarescue/tree/main](https://github.com/nguyen-info/datarescue/tree/main)
 
 ***
 
