@@ -2,7 +2,7 @@
 description: What are we collecting? Why?
 ---
 
-# Collecting Scope
+# 🗃️ Collecting Scope
 
 In an effort to continue advancing environmental protection and actions, the Data Rescues in Seattle will focus on Climate Data with the following data themes and types:
 

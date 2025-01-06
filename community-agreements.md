@@ -2,7 +2,7 @@
 description: READ BEFORE STARTING YOUR CONTRIBUTION
 ---
 
-# Community Agreements
+# 🙏 Community Agreements
 
 At Data Rescue events, we strive to support and create an environment that encourages all participants—organizers, supporters, any and all stakeholders to hold safe, engaging, and respectful environments where each person is able to focus as much of their energy on the Data Rescue’s intent.
 

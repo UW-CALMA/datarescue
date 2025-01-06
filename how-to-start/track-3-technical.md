@@ -1,4 +1,4 @@
-# Track 3 (Technical)
+# 🕵️ Track 3 (Technical)
 
 This track focuses on the actual capture of at-risk data in a variety of formats. As these tasks require the most technical knowledge, skills, and equipment, volunteers are encouraged to take this track when they are able to dedicate more time.
 

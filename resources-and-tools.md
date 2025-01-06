@@ -2,7 +2,7 @@
 description: Readings and tools available online
 ---
 
-# Resources & Tools
+# 🛠️ Resources & Tools
 
 ### Tools
 

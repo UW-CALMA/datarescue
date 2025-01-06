@@ -2,7 +2,7 @@
 description: Step-by-step instructions
 ---
 
-# How To Start
+# ⭐ How To Start
 
 Hello & welcome!
 

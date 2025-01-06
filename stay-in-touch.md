@@ -2,7 +2,7 @@
 description: Community Contacts
 ---
 
-# Stay in Touch
+# 🙋 Stay in Touch
 
 Given the various existing networks, groups, and institutions involved, there is no established central communication platform or mailing list. But in order to help connect people and work, we have compiled a short and growing list of contact information and opportunities to connect with groups.
 

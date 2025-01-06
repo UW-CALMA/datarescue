@@ -1,4 +1,4 @@
-# Track 1 (Communications)
+# 🎙️ Track 1 (Communications)
 
 This track focuses on creating, revising, and sharing information about at-risk data. This includes adding context about collected data in order to improve management and findability of data for future purposes. The below are our initial goals coming from CALMA / Seattle-based efforts, but all participants are free to suggest and pursue other contributions.
 
