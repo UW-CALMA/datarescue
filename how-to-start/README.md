@@ -12,10 +12,10 @@ Whether you are just now thinking about responding to current data risks and thr
 
 Now that you’ve reviewed the general expectations and background information, we ask all volunteers to following these steps to start:
 
-1. Read the community agreements page (LINK)
-2. Review track listing (below) to pick a path&#x20;
-3. Review track task options and pick 1 to start
-4. Add your info on [Running Tasks spreadsheet](https://docs.google.com/spreadsheets/d/1fSQuVpfgralyFP0eZXnqrJiNmhP0umm7fL7IbmUOx8M/edit?usp=sharing) for an empty row in selected track sheet
+1. Read the [community agreements](../) page&#x20;
+2. Review track task (list below) to pick a path&#x20;
+3. When on chosen track page, pick 1 task to start on
+4. Add your info on [Running Tasks spreadsheet](https://docs.google.com/spreadsheets/d/1fSQuVpfgralyFP0eZXnqrJiNmhP0umm7fL7IbmUOx8M/edit?usp=sharing) to an empty row in selected track sheet
 5. Work on selected task (ask for clarification or help from Coordinators in purple💜)
 6. Once task has been completed, add completion status and relevant notes
 7. REPEAT steps 2-6 if you want to take on another task (or just say bye 👋🏼 if you need to leave)
