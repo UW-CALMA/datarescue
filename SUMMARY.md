@@ -8,7 +8,7 @@
   * [🎙️ Track 1 (Communications)](how-to-start/track-1-communications.md)
   * [🔍 Track 2  (Data Assessment)](how-to-start/track-2-data-assessment.md)
   * [🕵️ Track 3 (Technical)](how-to-start/track-3-technical.md)
-* [🛠️ Resources & Tools](resources-and-tools/README.md)
+* [🛠️ Resources & Tools](resources-and-tools.md)
   * [Tools](resources-and-tools/tools.md)
   * [Readings](resources-and-tools/readings.md)
   * [Relevant Projects](resources-and-tools/relevant-projects.md)
