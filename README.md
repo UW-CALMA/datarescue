@@ -27,3 +27,37 @@ You are invited to comment and suggest ideas and updates to this site. **Submit 
 🐣 **I’m new to Data Rescues** →  Read a bit more about the [background](what-are-data-rescues.md) to understand why, when, where, how on this movement
 
 💻 **I’ve rescued data before** →  First, look through our [Collecting Scope](collecting-scope.md) page for the Seattle Data Rescues vision then move to contribute to community efforts
+
+***
+
+### Frequently Asked Questions - FAQs  🛶
+
+Q: I am not feeling well, will you provide basic PPE (masks/sanitizing wipes)?
+
+A: This is a mask-friendly event, and we encourage attendees to bring and wear masks for added protection against COVID-19. We encourage everyone who might feel under the weather to either attend via zoom OR come to the next Data Rescue event (if condition improves).
+
+#### Q: What devices or equipment do I need to bring?
+
+A: This is a BYOD (Bring Your Own Device) sort of event meaning participants are invited to bring along whatever devices they might need to contribute their skills. If this means just a pen and paper, that’ll do! NOTE: we do have a limited supply of laptops in case yours goes on the fritz last minute.
+
+#### Q: How much programming or technical skills does a participant need?
+
+A: For these Data Rescues, we only require surface level understanding of technology meaning do you know key differences between a physical and digital, do you have basic computer skills or have an interest in developing more, and can you understand the core threats to digital files like deletion and corruption?
+
+#### Q: Is there anything I need to read or review in preparation for the event?
+
+A: There is no required reading prior to attending the event, but you are welcomed to explore our [Gitbook documentation](https://community-archives.gitbook.io/data-rescue-2025) that shows suggested tasks, some potential readings, and overall information on the event structure.
+
+#### Q: Do I need to be there the entire time?
+
+A: No, these Data Rescue events are set up as Drop-Ins where most people can complete a digital preservation task within the hour. No one is expected to stay beyond that or arrive right at the start of the event.&#x20;
+
+#### Q: Can I bring a friend?
+
+A: Yes, friends and family (all ages) are welcome but please note that we are limited in in-person space. If more people arrive than we anticipated, we may ask you and your guest to move to our overflow spaces (both online or in-person). You are also welcomed to invite your friend to attend the next Data Rescue event.
+
+Contact [calma@uw.edu](mailto:calma@uw.edu) for questions and/or more information.&#x20;
+
+\
+
+
