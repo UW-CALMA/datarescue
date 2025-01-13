@@ -10,7 +10,11 @@ The goal is to have community members collectively contribute a list of agreemen
 
 We invite community members to suggest and/or share any other resources or samples that might be relevant and helpful as we build a welcoming and respectful environment towards our collective goals.
 
-* [Code of Conduct and Community Agreement – Collective Responsibility](https://laborforum.diglib.org/code-of-conduct-and-community-agreement/)&#x20;
+These are our suggested community agreements based on ones developed by Collective Responsibility: [Code of Conduct and Community Agreement – Collective Responsibility](https://laborforum.diglib.org/code-of-conduct-and-community-agreement/)&#x20;
+
+Here is the rationale why community agreements are supportive for community spaces: [Group Agreements - Seeds for Change](https://www.seedsforchange.org.uk/groupagree)
+
+Community agreements will differ for in-person and online spaces. Here are sample of community agreements in different contexts:
+
 * [Community Agreements and Code of Conduct | Lighting the Way - Spotlight at Stanford](https://exhibits.stanford.edu/lightingtheway/about/community-agreements-and-code-of-conduct)
 * [Social rules - Recurse Center](https://www.recurse.com/social-rules)
-* [Group Agreements - Seeds for Change](https://www.seedsforchange.org.uk/groupagree)
