@@ -22,13 +22,18 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 4. Review data authenticity and quality
 5. Program or conduct comprehensive data/website crawl&#x20;
 
+**Breakdown of Task Sections**\
+🚁 _(helicopter emoji)_ gives summary of task\
+🗂️ _(index dividers)_ outlines specific steps needed to complete task\
+🛠️ _(hammer & wrench emoji)_ details skills & tools needed for task
+
 ### TASKS BREAKDOWN
 
 #### 1. Set up monitoring API tracker to document changes to government websites
 
-**Summary:** Given the previous removal of content and subtle revision to federal government environmental websites, many&#x20;
+🚁**Summary:** Given the previous removal of content and subtle revision to federal government environmental websites, many&#x20;
 
-**Workflow**
+🗂️**Workflow**
 
 1. Read or skim the following report of website monitoring by EDGI
    1. Report Link: [https://envirodatagov.org/publication/changing-digital-climate/](https://envirodatagov.org/publication/changing-digital-climate/)&#x20;
@@ -43,36 +48,36 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 #### 2. Capture web files/data
 
-**Summary:** The collecting of web archives (meaning webpages and the content with them) can be complex, but necessary. Using more user friendly software, non-digital preservationist can help capture select content of websites without worrying about collecting the entire structure of a website.
+🚁**Summary:** The collecting of web archives (meaning webpages and the content with them) can be complex, but necessary. Using more user friendly software, non-digital preservationist can help capture select content of websites without worrying about collecting the entire structure of a website.
 
-**Workflow**
+🗂️**Workflow**
 
 1. Identify a web file ready to[ ready to be archived](https://docs.google.com/spreadsheets/d/1tOS7B3lgK-8wdgyhY81ntfICMIkGwAiHfeV63hi3UzU/edit?usp=drive_link)&#x20;
 2. Comment on the Status cell that you are working on that row
 3. Using web capture software (like [Conifer](https://guide.conifer.rhizome.org/)) pick an at-risk website that includes at-risk data
 4. Comment on the same Status cell that the web file/data has been archived
 
-**Skills Needed:** Intermediate understanding of software deployment and website navigation.&#x20;
+🛠️**Skills Needed:** Intermediate understanding of software deployment and website navigation.&#x20;
 
 #### 3. Harvest public datasets available online
 
-**Summary:**&#x20;
+🚁**Summary:** Some state and federal agencies are required by law to publish data, publications, and basic information about publicly funded projects (think grants and contracts) Given changes in agency personnel, system updates, as well as financial support to pay for database services and storage, the data stored in these repositories may not always be available for the public. Saving copies can help ensure future access as well as information on past government activities and areas of interests.
 
-**Workflow**
+🗂️**Workflow**
 
-1. Search for public funding project repositories (NIH [RePORTER](https://reporter.nih.gov/), US Government Awards [USASpending](https://www.usaspending.gov/search), Federal Audit Clearinghouse [FAC](https://app.fac.gov/dissemination/search/))
+1. Search for public funded project repositories (examples include: NIH [RePORTER](https://reporter.nih.gov/), US Government Awards [USASpending](https://www.usaspending.gov/search), Federal Audit Clearinghouse [FAC](https://app.fac.gov/dissemination/search/))
 2. Verify that downloadable datasets contain enough descriptive information (data files, interactive maps, etc.)&#x20;
 3. Capture dataset(s) to internal storage (temporary place)
 4. Submit and upload the dataset(s) to [this Data Tracking Form](https://docs.google.com/forms/d/e/1FAIpQLSfII-rl4yUcGPJlPWk9knWMhC_qBueJLEPcC7vphPeVisLhHA/viewform?usp=sf_link)&#x20;
 5. You can delete dataset after successful submission via form
 
-**Skills Needed:** Intermediate understanding of different dataset types and file formats. Comfort with downloading and saving larger files.
+🛠️**Skills Needed:** Intermediate understanding of different dataset types and file formats. Comfort with downloading and saving larger files.
 
 #### 4. Create Bag/Create checksum (save for Data Rescue Day 2 - Jan 22)
 
-**Summary:** This helps short and long term preservation effort to verify the integrity (fixity) of stored files nd datasets. Creating checksums or reviewing them helps detect errors or signs of tampering.
+🚁**Summary:** This helps short and long term preservation effort to verify the integrity (fixity) of stored files and datasets. Creating checksums or reviewing them helps detect transfer or creation errors or signs of tampering by external forces.
 
-**Workflow**
+🗂️**Workflow**
 
 * Read through the [digital preservation manual chapter on fixity and checksums by the Digital Preservation Coalition](https://www.dpconline.org/handbook/technical-solutions-and-tools/fixity-and-checksums)&#x20;
 * Download a fixity or checksum verification tool like
@@ -80,4 +85,4 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 * Identify dataset to create checksum using this [Data Tracking List - Data Rescue 2025 (Responses)](https://docs.google.com/spreadsheets/d/1tOS7B3lgK-8wdgyhY81ntfICMIkGwAiHfeV63hi3UzU/edit?usp=drive_link)
 * Run a check on the selected data to create the supplemental checksum value
 
-**Skills Needed:** Best for those with basic data or web archiving experience, or have both strong tech skills and attention to detail.
+🛠️**Skills Needed:** Best for those with basic data or web archiving experience, or have both strong tech skills and attention to detail.
