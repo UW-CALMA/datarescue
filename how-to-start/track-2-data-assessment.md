@@ -9,8 +9,7 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 **Tasks Include:**
 
 1. Identify & submit at-risk web pages
-2. Provide brief statement on value for identified at-risk data
-3. Collect at-risk individual web pages
+2. Collect at-risk individual web pages
 
 **Tools Required (vary across tasks):**
 
@@ -29,20 +28,21 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 
 ### SUGGESTED TASKS & INSTRUCTIONS
 
-#### 1. Identify & submit at-risk web pages
+#### 1. <mark style="background-color:purple;">Identify & suggest at-risk web pages</mark>
 
-🚁**Summary:** Volunteers will search through federal webpages for web pages, single files, and other online information that may be considered at-risk data.
+🚁**Summary:** Volunteers will search through the web for web pages, single files, and other online information that may be considered at-risk data from sources like federal agencies, state and regional offices, or national or local environmental organizations and groups.
 
 🗂️**Workflow:**&#x20;
 
-* Review established collecting criteria as a assessment guide
+* Review established collecting criteria to see if the webpage/website/dataset falls within this Data Rescue scope
+  * NOTE: suggestions will be captured and/or deposited to 1 of the following repositories 1. [End of Term](https://eotarchive.org/) (EoT) 2. [UW Web Archives](https://archive-it.org/organizations/729) or 3. [Internet Archive](https://archive.org/about/)
 * Research, name, and document web pages (individual pages or a small batch of pages within a website.&#x20;
   * For a large quantity of web pages or complex large websites, see Track 3.
 * Submit basic information about the web page on [this Data Tracking Form](https://docs.google.com/forms/d/e/1FAIpQLSfII-rl4yUcGPJlPWk9knWMhC_qBueJLEPcC7vphPeVisLhHA/viewform?usp=sf_link).&#x20;
 
-🛠️**Skills Needed:** Be able to browse through web pages and use a browser extension button to notify the Internet Archive which pages to save to its End of Term (EoT) project, which has been preserving federal webpages since 2008.&#x20;
+🛠️**Skills Needed:** Be able to browse through web pages to assess value or significance of content then be able to access a google form to submit assessment and basic metadata (details about the webpage/website)
 
-#### 2. Contribute capture suggestions for select repositories ([EoT](https://eotarchive.org/), [Internet Archive](https://archive.org/), or [UW web archives](https://archive-it.org/organizations/729/?show=Collections)) collection
+#### <mark style="background-color:purple;">2. Contribute capture suggestions for select repositories (</mark>[<mark style="background-color:purple;">End of Term (EoT</mark>](https://eotarchive.org/)<mark style="background-color:purple;">) or</mark> [<mark style="background-color:purple;">Internet Archive</mark>](https://archive.org/)<mark style="background-color:purple;">) collection</mark>
 
 🚁**Summary:** Participants in this track will browse a specific set of federal webpages to search for  ones that need to be preserved.&#x20;
 
@@ -51,8 +51,10 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 * Reference this [Data Tracking List - Data Rescue 2025 (Responses)](https://docs.google.com/spreadsheets/d/1tOS7B3lgK-8wdgyhY81ntfICMIkGwAiHfeV63hi3UzU/edit?usp=drive_link) that are ready for archiving
 * Claim a row
 * Change row Status to “In-progress”
-* Use the Internet Archive browser extension to grab and save webpages
-* Update row Status to “Submitted to EoT”
+* To capture, decide if it goes to the Internet Archive or the End of Term project
+  * Internet Archive-  use [Chrome](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak?pli=1), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/), or [Safari](https://apps.apple.com/us/app/wayback-machine/id1472432422) browser extension to capture webpage OR entr URL directly via the Wayack Machine (navigate to "[Save Page Now](http://web.archive.org/)" option)
+  * End of Term - use the project's [nomination form](https://digital2.library.unt.edu/nomination/eth2024/add/) to add URL, title, & government data type
+* Update row status to “Captured" on the spreadsheet
 * Repeat process for a new submission
 
-🛠️**Skills Needed:** Be able to browse through web pages and use a browser extension button (listed in above Tools Required) to notify the Internet Archive which pages to save to its End of Term project, which has been preserving federal webpages since 2008. Once the URL to the web page has been submitted to Internet Archive, the EoT will automatically process the webpage for long term preservation into their repository.
+🛠️**Skills Needed:** Be able to browse through web pages and use a browser extension button (listed in above Tools Required) to notify the Internet Archive or the End of Term project, which has been preserving federal webpages since 2008. Once the URL to the web page has been submitted to Internet Archive, the EoT will automatically process the webpage for long term preservation into their repository.
