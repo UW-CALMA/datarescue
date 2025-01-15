@@ -27,7 +27,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 ### **SUGGESTED TASKS & INSTRUCTIONS** &#x20;
 
-#### 1. Advocate for Research Data Storing
+#### <mark style="background-color:purple;">1. Advocate for Research Data Storing</mark>
 
 🚁**Summary:** Help build awareness on the importance of preserving individual research data by sharing guides, tips, and resources for researchers needing to deposit their research data and findings in a public facing, yet secure site.&#x20;
 
@@ -41,7 +41,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 🛠️**Skills Needed:** Basic understanding of English (template can be translated to other languages; we just ask that you share that translations for others to use). Basic understanding of the importance of , storing and sharing digital files about research.&#x20;
 
-#### 2. Research Team (topic of public records protection, preservation and access)
+#### <mark style="background-color:purple;">2. Research Team (topic of public records protection, preservation and access)</mark>
 
 🚁**Summary:** While the importance and complexities of digital preservation are well documented and researched, there is less information on the relationship between legislation, public awareness, and structural threats to government data. This task helps with surfacing some existing findings and research on how legislation might help strengthen our public records laws and practices.
 
@@ -60,7 +60,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 🛠️**Skills Needed:** Basic command of English to either read or write summaries of findings. Intermediate to advanced levels of reading and writing in order to find, assess, and summarize findings for a general United States audience and English reader. Additional language skills would be useful for translation or finding global readings and data.&#x20;
 
-#### 3. Create promotional text/images
+#### <mark style="background-color:purple;">3. Create promotional text/images</mark>
 
 🚁**Summary:** In order to better communicate the importance of digital preservation of at-risk data, we need different ways to communicate complex or obscure ideas and situations. By creating different representations, we can reach audiences across age, areas of interests, and ways of learning.&#x20;
 
@@ -75,7 +75,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 🛠️ **Skills Needed:** Depending on the creation and software used, creative skills will vary. For visual creations, volunteers will need a beginner to intermediate graphic or art design skillset. For written creations, volunteers are asked to write in English first with translation as a secondary option.&#x20;
 
-#### 4. Describe collected webpages/records _(tabled for January 22, 2025)_
+#### 4. Describe collected webpages/records _(this work is postponed until January 22, 2025)_
 
 🚁**Summary:** Description (at times also called metadata) helps with the management and access to digital records. Information about the content and context helps with identification, assessment, and verification of authenticity.&#x20;
 
