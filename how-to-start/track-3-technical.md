@@ -29,7 +29,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 ### TASKS BREAKDOWN
 
-#### 1. Set up monitoring API tracker to document changes to government websites
+#### <mark style="background-color:purple;">1. Set up monitoring API tracker to document changes to government websites</mark>
 
 🚁**Summary:** Given the previous removal of content and subtle revision to federal government environmental websites, many&#x20;
 
