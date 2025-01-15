@@ -14,8 +14,8 @@ Now that you’ve reviewed the general expectations and background information, 
 
 1. Read the [community agreements](../) page&#x20;
 2. Review track task (list below) to pick a path&#x20;
-3. When on chosen track page, pick 1 task to start on
-4. Follow instructions under "workflow" to complete the task
+3. When on chosen track Gitbook page (see sidebar or below), pick 1 task to start on
+4. Follow instructions for selected track/task under the "workflow" header to complete the task
 5. When done, add your completed task info using this [form](https://docs.google.com/forms/d/e/1FAIpQLSfII-rl4yUcGPJlPWk9knWMhC_qBueJLEPcC7vphPeVisLhHA/viewform?usp=sf_link)
 6. Work on selected task (ask for clarification or help from Coordinators in purple💜)
 7. Once task has been completed, add completion status and relevant notes
