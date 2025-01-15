@@ -8,11 +8,10 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 **Tasks Include:**
 
-1. Write letters of support for relevant proposed legislation (federal, state, or local level)
-2. Share updates, news, or general takeaways with close friends, family, and peers
-3. Contribute description to captured or identified datasets
-4. Provide translation of existing metadata in different languages
-5. Contribute to research on public records laws & legislation
+1. Write letters to advocate for personal research deposits
+2. Contribute to research on public records laws&#x20;
+3. Share updates, news, or general takeaways with close friends, family, and peers
+4. Contribute description to captured or identified datasets _(tabled for January 22, 2025)_
 
 **Tools Required (vary across tasks)**
 
@@ -34,12 +33,13 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 🗂️**Workflow**
 
-1. Review the Digital Research Repository outreach template (Download copy via this link)
-2. Customize template with your contacts basic info (name, their area of focus like Climate Science or Environmental changes, ideas for what to deposit, and how it might benefit the researcher and/or their audiences)
-3. Send/distribute outreach message to friends/family/colleagues
-4. Share info with networks, friends, or family
+1. Review the Digital Research Repository outreach template ([Download copy](https://docs.google.com/document/d/1OjEUMV00Kn1axqIBUlt44tFYCOSKDhIQXZzG8J3xIas/edit?usp=sharing) via this link)
+2. Find a researcher (& email) that you believe is conducting research in an area of significance.
+3. Customize template with your recipient's basic info (name, their area of focus like Climate Science or Environmental changes, ideas for what to deposit, and how it might benefit the researcher and/or their audiences)
+4. Send/distribute outreach message to selected recipient.
+5. Repeat previous steps or share info about Open data with networks, friends, or family
 
-🛠️**Skills Needed:** Basic understanding of English (template can be translated to other languages; we just ask that you share that translations for others to use). Basic understanding of the importance of transferring and sharing digital files about research.&#x20;
+🛠️**Skills Needed:** Basic understanding of English (template can be translated to other languages; we just ask that you share that translations for others to use). Basic understanding of the importance of , storing and sharing digital files about research.&#x20;
 
 #### 2. Research Team (topic of public records protection, preservation and access)
 
@@ -56,7 +56,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
    3. What other legislation exists that deals with preservation of at-risk data (USA or beyond)?
    4. How does the American public perceive government data loss?&#x20;
    5. How does this compare with other countries?
-4. Write a paragraph on your findings, reflections, or lingering questions onto the shared research google doc:&#x20;
+4. Write a paragraph on your findings, reflections, or lingering questions onto the shared research google doc: [https://docs.google.com/document/d/1BH24Ks63J55K1jFmdUxUKubuqusCAxwU-9verrfjTbc/edit?usp=sharing](https://docs.google.com/document/d/1BH24Ks63J55K1jFmdUxUKubuqusCAxwU-9verrfjTbc/edit?usp=sharing)
 
 🛠️**Skills Needed:** Basic command of English to either read or write summaries of findings. Intermediate to advanced levels of reading and writing in order to find, assess, and summarize findings for a general United States audience and English reader. Additional language skills would be useful for translation or finding global readings and data.&#x20;
 
@@ -75,7 +75,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 🛠️ **Skills Needed:** Depending on the creation and software used, creative skills will vary. For visual creations, volunteers will need a beginner to intermediate graphic or art design skillset. For written creations, volunteers are asked to write in English first with translation as a secondary option.&#x20;
 
-#### 4. Describe collected webpages/records (Save for Day 2 January 22)
+#### 4. Describe collected webpages/records _(tabled for January 22, 2025)_
 
 🚁**Summary:** Description (at times also called metadata) helps with the management and access to digital records. Information about the content and context helps with identification, assessment, and verification of authenticity.&#x20;
 
