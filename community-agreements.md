@@ -18,7 +18,9 @@ These are our suggested community agreements for all Data Rescue event as design
 * _seeking concrete ways to make physical spaces and online resources more universally accessible;_
 * _practicing self and community care—pay attention to your body’s needs and, as Active Bystanders, to the welfare of those around us._
 
-Here is the rationale why community agreements are supportive for community spaces: [Group Agreements - Seeds for Change](https://www.seedsforchange.org.uk/groupagree)
+As we are also planning to share physical or virtual spaces at the University of Washington, we ask that you abide by the university's [Code of Conduct](https://lib.uw.edu/about/policy/conduct/). Violations of these agreements may result in request to leave the event and building.&#x20;
+
+Here is the rationale on why community agreements are supportive for community spaces: [Group Agreements - Seeds for Change](https://www.seedsforchange.org.uk/groupagree)
 
 Community agreements will differ for in-person and online spaces. Here are sample of community agreements in different contexts:
 
