@@ -46,7 +46,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 **Skills Needed:** Advanced understanding of software deployment, APIs, and technical git repositories.&#x20;
 
-#### 2. Capture web files/data
+#### <mark style="background-color:purple;">2. Capture web files/data</mark>
 
 🚁**Summary:** The collecting of web archives (meaning webpages and the content with them) can be complex, but necessary. Using more user friendly software, non-digital preservationist can help capture select content of websites without worrying about collecting the entire structure of a website.
 
@@ -59,7 +59,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 🛠️**Skills Needed:** Intermediate understanding of software deployment and website navigation.&#x20;
 
-#### 3. Harvest public datasets available online
+#### <mark style="background-color:purple;">3. Harvest public datasets available online</mark>
 
 🚁**Summary:** Some state and federal agencies are required by law to publish data, publications, and basic information about publicly funded projects (think grants and contracts) Given changes in agency personnel, system updates, as well as financial support to pay for database services and storage, the data stored in these repositories may not always be available for the public. Saving copies can help ensure future access as well as information on past government activities and areas of interests.
 
