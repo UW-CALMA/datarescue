@@ -12,11 +12,11 @@ This Gitbook is a knowledge base for the 2025 Seattle-based Data Rescues events.
 
 The following Gitbook pages include:
 
-* [Background](https://docs.google.com/document/d/1WzwaEl0BReGwFT-sQW_DM5lD9bKVtw7duoNbCMBvvsw/edit?tab=t.0#heading=h.mjrh0wfiipbo) information on the history of past Data Rescue efforts
-* Guide on [How To Start](https://docs.google.com/document/d/1WzwaEl0BReGwFT-sQW_DM5lD9bKVtw7duoNbCMBvvsw/edit?tab=t.0#heading=h.c4ageapgvmi0) contributing to Data Rescues goals
-* Detailed instructions on contributing to Data Rescue [Task Workflows](https://docs.google.com/document/d/1WzwaEl0BReGwFT-sQW_DM5lD9bKVtw7duoNbCMBvvsw/edit?tab=t.0#heading=h.ww1afpx0mzsl)
-* A growing list of [Learning Resources](https://docs.google.com/document/d/1WzwaEl0BReGwFT-sQW_DM5lD9bKVtw7duoNbCMBvvsw/edit?tab=t.0#heading=h.5uoktqwf0zoj) (readings and tools)
-* [Contact information](https://docs.google.com/document/d/1WzwaEl0BReGwFT-sQW_DM5lD9bKVtw7duoNbCMBvvsw/edit?tab=t.0#heading=h.kh20zm7am2l2) to connect with other relevant networks and communities
+* [Background](what-are-data-rescues.md) information on the history of past Data Rescue efforts
+* Guide on [How To Start](how-to-start/) contributing to Data Rescues goals
+* Detailed instructions on contributing to Data Rescue [Task Workflows](how-to-start/)
+* A growing list of [Learning Resources](resources-and-tools.md) (readings and tools)
+* [Contact information](stay-in-touch.md) to connect with other relevant networks and communities
 
 You are invited to comment and suggest ideas and updates to this site. **Submit Change Requests** through the Data Rescue GitHub repository at: [https://github.com/nguyen-info/datarescue/tree/main](https://github.com/nguyen-info/datarescue/tree/main)
 
