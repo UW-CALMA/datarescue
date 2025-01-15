@@ -52,10 +52,10 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 🗂️**Workflow**
 
-1. Identify a web file ready to[ ready to be archived](https://docs.google.com/spreadsheets/d/1tOS7B3lgK-8wdgyhY81ntfICMIkGwAiHfeV63hi3UzU/edit?usp=drive_link)&#x20;
-2. Comment on the Status cell that you are working on that row
+1. Identify a web file ready to [ready to be captured](https://docs.google.com/spreadsheets/d/1tOS7B3lgK-8wdgyhY81ntfICMIkGwAiHfeV63hi3UzU/edit?usp=sharing).
+2. Comment (using comment function) on the "Status" cell that you are working on that row
 3. Using web capture software (like [Conifer](https://guide.conifer.rhizome.org/)) pick an at-risk website that includes at-risk data
-4. Comment on the same Status cell that the web file/data has been archived
+4. Change the status on the same "Status" cell that the web file/data has been archived
 
 🛠️**Skills Needed:** Intermediate understanding of software deployment and website navigation.&#x20;
 
