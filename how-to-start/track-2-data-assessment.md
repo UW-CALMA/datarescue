@@ -35,7 +35,10 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 🗂️**Workflow:**&#x20;
 
 * Review established collecting criteria to see if the webpage/website/dataset falls within this Data Rescue scope
-  * NOTE: suggestions will be captured and/or deposited to 1 of the following repositories 1. [End of Term](https://eotarchive.org/) (EoT) 2. [UW Web Archives](https://archive-it.org/organizations/729) or 3. [Internet Archive](https://archive.org/about/)
+  * NOTE: suggestions will be captured and/or deposited to 1 of the following repositories&#x20;
+    * [End of Term](https://eotarchive.org/) (EoT) : Mostly includes and collects webpages and files related to specific presidential administrations
+    * [UW Web Archives](https://archive-it.org/organizations/729): More focused on Northwest regional history, University of Washington related work and studies, and labor relations
+    * &#x20;[Internet Archive](https://archive.org/about/): more broad collecting scope. Tends to capture web content (meaning webpages or part of websites) Harder to upload actual files.&#x20;
 * Research, name, and document web pages (individual pages or a small batch of pages within a website.&#x20;
   * For a large quantity of web pages or complex large websites, see Track 3.
 * Submit basic information about the web page on [this Data Tracking Form](https://docs.google.com/forms/d/e/1FAIpQLSfII-rl4yUcGPJlPWk9knWMhC_qBueJLEPcC7vphPeVisLhHA/viewform?usp=sf_link).&#x20;
