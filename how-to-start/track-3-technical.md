@@ -71,8 +71,8 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 4. Submit and upload the dataset(s) via 1 of these options
    1. FOR UW affiliates ONLY: [https://docs.google.com/forms/d/e/1FAIpQLSfk0pfq4NTxlxAy2cmA3RYVLatn-tMwzv5NljayYvXNv8dp6Q/viewform?usp=sharing](https://docs.google.com/forms/d/e/1FAIpQLSfk0pfq4NTxlxAy2cmA3RYVLatn-tMwzv5NljayYvXNv8dp6Q/viewform?usp=sharing) (URL to Google Drive or UW OneDrive)
    2. FOR Non-UW Affiliates:
-      * Files up to 2 GB [https://wetransfer.com/](https://wetransfer.com/)
-      * Send to [snguye@uw.edu](mailto:snguye@uw.edu) OR submit share URL to [https://bit.ly/datarescue-bye](https://bit.ly/datarescue-bye)&#x20;
+      * Files up to 2 GB [https://wetransfer.com/](https://wetransfer.com/) Send to [snguye@uw.edu](mailto:snguye@uw.edu)&#x20;
+      * OR submit the URL of a downloadable folder via the exit tix [https://bit.ly/datarescue-bye](https://bit.ly/datarescue-bye)&#x20;
 5. You can delete dataset after successful transfer to Data Rescue coordinators
 
 🛠️**Skills Needed:** Intermediate understanding of different dataset types and file formats. Comfort with downloading and saving larger files.
@@ -94,7 +94,8 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 * Upload checksum file using (1 )of the following options
   * FOR UW affiliates ONLY: [https://docs.google.com/forms/d/e/1FAIpQLSfk0pfq4NTxlxAy2cmA3RYVLatn-tMwzv5NljayYvXNv8dp6Q/viewform?usp=sharing](https://docs.google.com/forms/d/e/1FAIpQLSfk0pfq4NTxlxAy2cmA3RYVLatn-tMwzv5NljayYvXNv8dp6Q/viewform?usp=sharing) (URL to Google Drive or UW OneDrive)
   * FOR Non-UW Affiliates:
-    * For files up to 2 GB h[ttps://wetransfer.com/](https://wetransfer.com/)
-    * Send to [snguye@uw.edu](mailto:snguye@uw.edu) OR submit share URL to [https://bit.ly/datarescue-bye](https://bit.ly/datarescue-bye)&#x20;
+    * Submit and upload the dataset(s) via 1 of these options
+      * Files up to 2 GB https://wetransfer.com/ Send to snguye@uw.edu&#x20;
+      * OR submit the URL of a downloadable folder via the exit tix https://bit.ly/datarescue-bye&#x20;
 
 🛠️**Skills Needed:** Best for those who have strong tech skills, attention to detail, and willingness to read the docs.
