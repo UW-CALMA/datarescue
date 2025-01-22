@@ -65,15 +65,19 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 🗂️**Workflow**
 
-1. Search for public funded project repositories (examples include: NIH [RePORTER](https://reporter.nih.gov/), US Government Awards [USASpending](https://www.usaspending.gov/search), Federal Audit Clearinghouse [FAC](https://app.fac.gov/dissemination/search/))
+1. Search for publicly funded project repositories (examples include: NIH [RePORTER](https://reporter.nih.gov/), US Government Awards [USASpending](https://www.usaspending.gov/search), Federal Audit Clearinghouse [FAC](https://app.fac.gov/dissemination/search/), [NWIS - National Water Information System](https://waterdata.usgs.gov/nwis?) and many others)
 2. Verify that downloadable datasets contain enough descriptive information (data files, interactive maps, etc.)&#x20;
 3. Capture dataset(s) to internal storage (temporary place)
-4. Submit and upload the dataset(s) to [this Data Tracking Form](https://docs.google.com/forms/d/e/1FAIpQLSfII-rl4yUcGPJlPWk9knWMhC_qBueJLEPcC7vphPeVisLhHA/viewform?usp=sf_link)&#x20;
-5. You can delete dataset after successful submission via form
+4. Submit and upload the dataset(s) via 1 of these options
+   1. FOR UW affiliates ONLY: [https://docs.google.com/forms/d/e/1FAIpQLSfk0pfq4NTxlxAy2cmA3RYVLatn-tMwzv5NljayYvXNv8dp6Q/viewform?usp=sharing](https://docs.google.com/forms/d/e/1FAIpQLSfk0pfq4NTxlxAy2cmA3RYVLatn-tMwzv5NljayYvXNv8dp6Q/viewform?usp=sharing) (URL to Google Drive or UW OneDrive)
+   2. FOR Non-UW Affiliates:
+      * [https://send-anywhere.com/](https://send-anywhere.com/) OR [https://wetransfer.com/](https://wetransfer.com/)
+      * Send to [snguye@uw.edu](mailto:snguye@uw.edu) OR submit share URL to [https://bit.ly/datarescue-bye](https://bit.ly/datarescue-bye)&#x20;
+5. You can delete dataset after successful transfer to Data Rescue coordinators
 
 🛠️**Skills Needed:** Intermediate understanding of different dataset types and file formats. Comfort with downloading and saving larger files.
 
-#### 4. Create Bag/Create checksum (save for Data Rescue Day 2 - Jan 22)
+#### <mark style="background-color:purple;">4. Create checksum for captured files</mark>
 
 🚁**Summary:** This helps short and long term preservation effort to verify the integrity (fixity) of stored files and datasets. Creating checksums or reviewing them helps detect transfer or creation errors or signs of tampering by external forces.
 
