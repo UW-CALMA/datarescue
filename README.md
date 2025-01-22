@@ -14,7 +14,7 @@ The following Gitbook pages include:
 
 * [Background](what-are-data-rescues.md) information on the history of past Data Rescue efforts
 * Guide on [How To Start](how-to-start/) contributing to Data Rescues goals
-* Detailed instructions on contributing to Data Rescue [Task Workflows](how-to-start/)
+* Detailed instructions on contributing to Data Rescue track tasks ([communication](how-to-start/track-1-communications.md), [assessment](how-to-start/track-2-data-assessment.md), [technical](how-to-start/track-3-technical.md))
 * A growing list of [Learning Resources](resources-and-tools/) (readings and tools)
 * [Contact information](stay-in-touch.md) to connect with other relevant networks and communities
 
