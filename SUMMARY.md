@@ -11,5 +11,5 @@
 * [🛠️ Resources & Tools](resources-and-tools.md)
   * [Tools](resources-and-tools/tools.md)
   * [Readings](resources-and-tools/readings.md)
-  * [Model Projects](resources-and-tools/model-projects.md)
+  * [Model Projects](resources-and-tools/relevant-projects.md)
 * [🙋 Stay in Touch](stay-in-touch.md)

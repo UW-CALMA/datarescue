@@ -62,7 +62,7 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 
 #### <mark style="background-color:purple;">3. Contribute capture suggestions for select repositories (</mark>[<mark style="background-color:purple;">End of Term (EoT</mark>](https://eotarchive.org/)<mark style="background-color:purple;">) or</mark> [<mark style="background-color:purple;">Internet Archive</mark>](https://archive.org/)<mark style="background-color:purple;">) collection</mark>
 
-🚁**Summary:** Participants in this track will browse a specific set of federal webpages to search for  ones that need to be preserved.&#x20;
+🚁**Summary:** Participants in this track will browse a specific set of suggested at-risk federal webpages to search for ones that need to be preserved.&#x20;
 
 🗂️**Workflow:**&#x20;
 
