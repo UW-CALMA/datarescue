@@ -11,7 +11,6 @@ This track focuses on creating, revising, and sharing information about at-risk 
 1. Write letters to advocate for individual researcher to deposit their research data
 2. Contribute to group research on public records legislation&#x20;
 3. Share updates, news, or general takeaways with close friends, family, and peers
-4. Contribute description to captured or identified datasets&#x20;
 
 **Tools Required (vary across tasks)**
 
@@ -75,12 +74,3 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 🛠️ **Skills Needed:** Depending on the creation and software used, creative skills will vary. For visual creations, volunteers will need a beginner to intermediate graphic or art design skillset. For written creations, volunteers are asked to write in English first with translation as a secondary option.&#x20;
 
-#### 4. Describe collected webpages/records
-
-🚁**Summary:** Description (at times also called metadata) helps with the management and access to digital records. Information about the content and context helps with identification, assessment, and verification of authenticity.&#x20;
-
-🗂️ **Workflow**
-
-1. Create a descriptive record for each data set in 1 of the following repositories (hyperlink to come)
-
-🛠️ **Skills** Needed: Basic command of English for first layer of information with additional language skills used for translation of English metadata. Ability to distinguish between different types of information.
