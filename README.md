@@ -1,5 +1,5 @@
 ---
-description: WELCOME DATA RESCUERS! ⛵
+description: WELCOME!
 ---
 
 # 🏥 Data Rescues 2025
@@ -15,7 +15,7 @@ The following Gitbook pages include:
 * [Background](what-are-data-rescues.md) information on the history of past Data Rescue efforts
 * Guide on [How To Start](how-to-start/) contributing to Data Rescues goals
 * Detailed instructions on contributing to Data Rescue [Task Workflows](how-to-start/)
-* A growing list of [Learning Resources](resources-and-tools.md) (readings and tools)
+* A growing list of [Learning Resources](resources-and-tools/) (readings and tools)
 * [Contact information](stay-in-touch.md) to connect with other relevant networks and communities
 
 You are invited to comment and suggest ideas and updates to this site. **Submit Change Requests** through the Data Rescue GitHub repository at: [https://github.com/nguyen-info/datarescue/tree/main](https://github.com/nguyen-info/datarescue/tree/main)

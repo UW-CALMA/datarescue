@@ -1,5 +1,5 @@
 ---
-description: What are we collecting, preserving, an protecting? and why?
+description: What are we collecting? Why?
 ---
 
 # 🗃️ Collecting Scope
