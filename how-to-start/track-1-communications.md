@@ -9,9 +9,9 @@ This track focuses on creating, revising, and sharing information about at-risk 
 **Tasks Include (highlighted below&#x20;**<mark style="background-color:purple;">**in purple):**</mark>
 
 1. Write letters to advocate for individual researcher to deposit their research data
-2. Contribute to group research on public records laws&#x20;
+2. Contribute to group research on public records legislation&#x20;
 3. Share updates, news, or general takeaways with close friends, family, and peers
-4. Contribute description to captured or identified datasets _(tabled for January 22, 2025)_
+4. Contribute description to captured or identified datasets&#x20;
 
 **Tools Required (vary across tasks)**
 
@@ -34,7 +34,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
 🗂️**Workflow**
 
 1. Review the Digital Research Repository outreach template ([Download copy](https://docs.google.com/document/d/1OjEUMV00Kn1axqIBUlt44tFYCOSKDhIQXZzG8J3xIas/edit?usp=sharing) via this link)
-2. Find a researcher (& email) that you believe is conducting research in an area of significance.
+2. Find a researcher (& contact information) that you believe is conducting research in an area of significance.
 3. Customize template with your recipient's basic info (name, their area of focus like Climate Science or Environmental changes, ideas for what to deposit, and how it might benefit the researcher and/or their audiences)
 4. Send/distribute outreach message to selected recipient.
 5. Repeat previous steps or share info about Open data with networks, friends, or family
@@ -75,7 +75,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 🛠️ **Skills Needed:** Depending on the creation and software used, creative skills will vary. For visual creations, volunteers will need a beginner to intermediate graphic or art design skillset. For written creations, volunteers are asked to write in English first with translation as a secondary option.&#x20;
 
-#### 4. Describe collected webpages/records _(this work is postponed until January 22, 2025)_
+#### 4. Describe collected webpages/records
 
 🚁**Summary:** Description (at times also called metadata) helps with the management and access to digital records. Information about the content and context helps with identification, assessment, and verification of authenticity.&#x20;
 
