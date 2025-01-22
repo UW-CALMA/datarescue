@@ -45,7 +45,22 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 
 🛠️**Skills Needed:** Be able to browse through web pages to assess value or significance of content then be able to access a google form to submit assessment and basic metadata (details about the webpage/website)
 
-#### <mark style="background-color:purple;">2. Contribute capture suggestions for select repositories (</mark>[<mark style="background-color:purple;">End of Term (EoT</mark>](https://eotarchive.org/)<mark style="background-color:purple;">) or</mark> [<mark style="background-color:purple;">Internet Archive</mark>](https://archive.org/)<mark style="background-color:purple;">) collection</mark>
+#### <mark style="background-color:purple;">2. Describe collected webpages/records</mark>&#x20;
+
+🚁**Summary**: Description (at times also called metadata) helps with the management and access to digital records. Information about the content and context helps with identification, assessment, and verification of authenticity.
+
+🗂️**Workflow**
+
+* Read [dublin core basic manual ](https://www.dublincore.org/specifications/dublin-core/usageguide/)to learn about the use of metadata for digital records (for explanation on selected metadata fields, see section 4. Elements)
+* Navigate to the [Data Tracking List ](https://docs.google.com/spreadsheets/d/1tOS7B3lgK-8wdgyhY81ntfICMIkGwAiHfeV63hi3UzU/edit?usp=sharing)sheet (stay on the first tab “EDIT TO THIS TABLE”)&#x20;
+* Select a row with an item that is marked as "Needs Metadata" (this info found in column K)
+* Fill-in descriptive text for your select row for all 5 metadata columns (these are columns P through U colored in teal blue)
+* Use Data Tracking sheet for title and URL to find other information to create description
+* When metadata has been entered, change status of row in column K to "Needs Checksum" &#x20;
+
+🛠️Skills Needed Have reading and writing literacy in English language to create metadata in English. Ability to distinguish between different types of metadata fields (who, what, when. where, how)
+
+#### <mark style="background-color:purple;">3. Contribute capture suggestions for select repositories (</mark>[<mark style="background-color:purple;">End of Term (EoT</mark>](https://eotarchive.org/)<mark style="background-color:purple;">) or</mark> [<mark style="background-color:purple;">Internet Archive</mark>](https://archive.org/)<mark style="background-color:purple;">) collection</mark>
 
 🚁**Summary:** Participants in this track will browse a specific set of federal webpages to search for  ones that need to be preserved.&#x20;
 
