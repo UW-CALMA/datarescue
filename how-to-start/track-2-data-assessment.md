@@ -67,8 +67,8 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 🗂️**Workflow:**&#x20;
 
 * Reference this [Data Tracking List - Data Rescue 2025 (Responses)](https://docs.google.com/spreadsheets/d/1tOS7B3lgK-8wdgyhY81ntfICMIkGwAiHfeV63hi3UzU/edit?usp=drive_link) that are ready for archiving
-* Claim a row
-* Change row Status to “In-progress”
+* Select a row
+* Change row Status to “In-progress - Capture ”
 * To capture, decide if it goes to the Internet Archive or the End of Term project
   * Internet Archive-  use [Chrome](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak?pli=1), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/), or [Safari](https://apps.apple.com/us/app/wayback-machine/id1472432422) browser extension to capture webpage OR entr URL directly via the Wayack Machine (navigate to "[Save Page Now](http://web.archive.org/)" option)
   * End of Term - use the project's [nomination form](https://digital2.library.unt.edu/nomination/eth2024/add/) to add URL, title, & government data type
@@ -76,3 +76,18 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 * Repeat process for a new submission
 
 🛠️**Skills Needed:** Be able to browse through web pages and use a browser extension button (listed in above Tools Required) to notify the Internet Archive or the End of Term project, which has been preserving federal webpages since 2008. Once the URL to the web page has been submitted to Internet Archive, the EoT will automatically process the webpage for long term preservation into their repository.
+
+4. <mark style="background-color:purple;">Describe collected webpages/records</mark>&#x20;
+
+🚁Summary: Description (at times also called metadata) helps with the management and access to digital records. Information about the content and context helps with identification, assessment, and verification of authenticity.&#x20;
+
+🗂️ Workflow&#x20;
+
+* Read [Dublin Core basic metadata manual](https://www.dublincore.org/specifications/dublin-core/usageguide/) to learn about the use of metadata for digital records (for explanation on selected metadata fields, see section 4. Elements)&#x20;
+* Navigate to the [Data Tracking List](https://docs.google.com/spreadsheets/d/1tOS7B3lgK-8wdgyhY81ntfICMIkGwAiHfeV63hi3UzU/edit?usp=sharing) sheet (stay on the first tab “EDIT TO THIS TABLE”)&#x20;
+* Select a row with an item that is marked as "Needs Metadata" (this info found in column K)&#x20;
+* Fill-in descriptive text for your select row for all 5 metadata columns (these are columns P through U colored in teal blue)&#x20;
+* Use Data Tracking sheet for URL to find other information to create description&#x20;
+* When metadata has been entered, change status of row in column K to "Needs Checksum"
+
+🛠️ Skills Needed: Basic command of English for first layer of information with additional language skills used for translation of English metadata. Ability to distinguish between different types of information.
