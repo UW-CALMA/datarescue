@@ -43,7 +43,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 #### <mark style="background-color:purple;">2. Research Team 1 (topic of public records protection, preservation and access)</mark>
 
-🚁**Summary:** While the importance and complexities of digital preservation are well documented and researched, there is less information on the relationship between legislation, public awareness, and structural threats to government dResearch Team 1 (topic oata. This task helps with surfacing some existing findings and research on how legislation might help strengthen our public records laws and practices.
+🚁**Summary:** While the importance and complexities of digital preservation are well documented and researched, there is less information on the relationship between legislation, public awareness, and structural threats to government data. This task helps with surfacing some existing findings and research on how legislation might help strengthen our public records laws and practices.
 
 🗂️ **Workflow**
 
@@ -61,6 +61,10 @@ This track focuses on creating, revising, and sharing information about at-risk 
 🛠️**Skills Needed:** Basic command of English to either read or write summaries of findings. Intermediate to advanced levels of reading and writing in order to find, assess, and summarize findings for a general United States audience and English reader. Additional language skills would be useful for translation or finding global readings and data.&#x20;
 
 #### <mark style="background-color:purple;">3. Group Research (topic of disappeared websites/webpages)</mark>
+
+🚁**Summary:** Given the many changes that governments undergo during a political transition, this task allows us to record and report what ACTUAL changes occurred to previously available government data like websites, webpages, repositories, social media accounts, etc.
+
+🗂️ **Workflow**
 
 * Conduct research on the following questions or add relevant questions to this shared document
   1. What websites have been noted as "disappeared" or "offline"
