@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏥 Data Rescues 2025](README.md)
+* [🛟 Data Rescues 2025](README.md)
 * [🧐 What are Data Rescues](what-are-data-rescues.md)
 * [🙏 Community Agreements](community-agreements.md)
 * [🗃️ Collecting Scope](collecting-scope.md)

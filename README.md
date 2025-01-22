@@ -1,8 +1,8 @@
 ---
-description: READ ME FIRST!
+description: READ ME FIRST! ⛵
 ---
 
-# 🏥 Data Rescues 2025
+# 🛟 Data Rescues 2025
 
 In response to political threats to social, environmental, health, and personal data, the [University of Washington Center for Advances in Libraries, Museums, and Archives (CALMA)](https://calma.ischool.uw.edu/) in collaboration with Seattle-based BKS Studio, is hosting a series of DATA RESCUE efforts. If you are also concerned about losing access to vital public government data and files, you are in the right place!
 
