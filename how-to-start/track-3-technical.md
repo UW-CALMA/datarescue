@@ -9,8 +9,8 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 **Tools Required (vary across tasks):**
 
 * Web capture tools ([Conifer](https://guide.conifer.rhizome.org/), [Archive-It](https://archive-it.org/), [Webrecorder](https://webrecorder.io/), [wget](https://www.gnu.org/software/wget/). [More information on web archiving](https://bits.ashleyblewer.com/blog/2017/09/20/how-do-web-archiving-frameworks-work/))
-* Data quality check system
-* Spreadsheet editor (excel, google sheets)
+* Data quality check system (i.e. checksum)
+* Spreadsheet editor (i.e., excel, google sheets)
 * Web monitoring tool
 * Storage (available internal memory, external hard drive)
 
@@ -31,7 +31,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 #### <mark style="background-color:purple;">1. Set up monitoring API tracker to document changes to government websites</mark>
 
-🚁**Summary:** Given the previous removal of content and subtle revision to federal government environmental websites, many&#x20;
+🚁**Summary:** Given the previous removal of content and subtle revision to federal government environmental websites, many websites need to continually crawled to document track changes.
 
 🗂️**Workflow**
 
@@ -52,10 +52,10 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 🗂️**Workflow**
 
-1. Identify a web file ready to [ready to be captured](https://docs.google.com/spreadsheets/d/1tOS7B3lgK-8wdgyhY81ntfICMIkGwAiHfeV63hi3UzU/edit?usp=sharing).
-2. Comment (using comment function) on the "Status" cell that you are working on that row
+1. Identify a web file ready to [ready to be captured](https://docs.google.com/spreadsheets/d/1tOS7B3lgK-8wdgyhY81ntfICMIkGwAiHfeV63hi3UzU/edit?usp=sharing)
+2. Update the "Status" cell that you are working on that row so that others will know that you are working on that web file
 3. Using web capture software (like [Conifer](https://guide.conifer.rhizome.org/)) pick an at-risk website that includes at-risk data
-4. Change the status on the same "Status" cell that the web file/data has been archived
+4. Change the status on the same "Status" cell to notify that the web file/data has been archived and to avoid others from doing redundant work
 
 🛠️**Skills Needed:** Intermediate understanding of software deployment and website navigation.&#x20;
 
@@ -82,7 +82,15 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 * Read through the [digital preservation manual chapter on fixity and checksums by the Digital Preservation Coalition](https://www.dpconline.org/handbook/technical-solutions-and-tools/fixity-and-checksums)&#x20;
 * Download a fixity or checksum verification tool like
   * [Md5summer](https://md5summer.org/): An application for Windows machines that will generate and verify md5 checksums.
-* Identify dataset to create checksum using this [Data Tracking List - Data Rescue 2025 (Responses)](https://docs.google.com/spreadsheets/d/1tOS7B3lgK-8wdgyhY81ntfICMIkGwAiHfeV63hi3UzU/edit?usp=drive_link)
+  * [checksum](https://corz.org/windows/software/checksum/): A file hashing application for Windows, a program that generates and verifies BLAKE2, SHA1 and MD5 hashes (aka. "MD5 Sums", or "digital fingerprints") of a file, a folder, or recursively.
+  * There are a number of other tools, the above mentioned are examples (see Digital Preservation Coalition Digital Preservation Handbook above).
+* Ask the "data titan" coordinator to gain access to captured files
+* Use the [dataset tracking list ](https://docs.google.com/spreadsheets/d/1tOS7B3lgK-8wdgyhY81ntfICMIkGwAiHfeV63hi3UzU/edit?usp=drive_link)to check details to create checksum&#x20;
 * Run a check on the selected data to create the supplemental checksum value
+* Upload checksum file using (1 )of the following options
+  * FOR UW affiliates ONLY: [https://docs.google.com/forms/d/e/1FAIpQLSfk0pfq4NTxlxAy2cmA3RYVLatn-tMwzv5NljayYvXNv8dp6Q/viewform?usp=sharing](https://docs.google.com/forms/d/e/1FAIpQLSfk0pfq4NTxlxAy2cmA3RYVLatn-tMwzv5NljayYvXNv8dp6Q/viewform?usp=sharing) (URL to Google Drive or UW OneDrive)
+  * FOR Non-UW Affiliates:
+    * [https://send-anywhere.com/](https://send-anywhere.com/) OR [https://wetransfer.com/](https://wetransfer.com/)
+    * Send to [snguye@uw.edu](mailto:snguye@uw.edu) OR submit share URL to [https://bit.ly/datarescue-bye](https://bit.ly/datarescue-bye)&#x20;
 
-🛠️**Skills Needed:** Best for those with basic data or web archiving experience, or have both strong tech skills and attention to detail.
+🛠️**Skills Needed:** Best for those who have strong tech skills, attention to detail, and willingness to read the docs.
