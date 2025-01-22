@@ -9,8 +9,9 @@ This track focuses on creating, revising, and sharing information about at-risk 
 **Tasks Include (highlighted below&#x20;**<mark style="background-color:purple;">**in purple):**</mark>
 
 1. Write letters to advocate for individual researcher to deposit their research data
-2. Contribute to group research on public records legislation&#x20;
-3. Share updates, news, or general takeaways with close friends, family, and peers
+2. Contribute to group research on public records legislation
+3. Contribute to group research on disappeared websites since start of 2025 administration&#x20;
+4. Share updates, news, or general takeaways with close friends, family, and peers
 
 **Tools Required (vary across tasks)**
 
@@ -40,9 +41,9 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 🛠️**Skills Needed:** Basic understanding of English (template can be translated to other languages; we just ask that you share that translations for others to use). Basic understanding of the importance of , storing and sharing digital files about research.&#x20;
 
-#### <mark style="background-color:purple;">2. Research Team (topic of public records protection, preservation and access)</mark>
+#### <mark style="background-color:purple;">2. Research Team 1 (topic of public records protection, preservation and access)</mark>
 
-🚁**Summary:** While the importance and complexities of digital preservation are well documented and researched, there is less information on the relationship between legislation, public awareness, and structural threats to government data. This task helps with surfacing some existing findings and research on how legislation might help strengthen our public records laws and practices.
+🚁**Summary:** While the importance and complexities of digital preservation are well documented and researched, there is less information on the relationship between legislation, public awareness, and structural threats to government dResearch Team 1 (topic oata. This task helps with surfacing some existing findings and research on how legislation might help strengthen our public records laws and practices.
 
 🗂️ **Workflow**
 
@@ -59,7 +60,17 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 🛠️**Skills Needed:** Basic command of English to either read or write summaries of findings. Intermediate to advanced levels of reading and writing in order to find, assess, and summarize findings for a general United States audience and English reader. Additional language skills would be useful for translation or finding global readings and data.&#x20;
 
-#### <mark style="background-color:purple;">3. Create promotional text/images</mark>
+#### <mark style="background-color:purple;">3. Group Research (topic of disappeared websites/webpages)</mark>
+
+* Conduct research on the following questions or add relevant questions to this shared document
+  1. What websites have been noted as "disappeared" or "offline"
+  2. Have there been news coverage of these removals?
+  3. Are people on social media commenting on these removals?
+  4. Are there back up copies on sites like the [Internet Archive](http://web.archive.org/), [End of Term](https://eotarchive.org/data/), [DataLumos](https://www.datalumos.org/datalumos/search/studies)?&#x20;
+  5. How do these tactics of removing public federal information compare with other countries?
+* Write a paragraph on your findings, reflections, or lingering questions onto the shared research google doc: [https://docs.google.com/document/d/1BH24Ks63J55K1jFmdUxUKubuqusCAxwU-9verrfjTbc/edit?usp=sharing](https://docs.google.com/document/d/1BH24Ks63J55K1jFmdUxUKubuqusCAxwU-9verrfjTbc/edit?usp=sharing)
+
+#### <mark style="background-color:purple;">4. Create promotional text/images</mark>
 
 🚁**Summary:** In order to better communicate the importance of digital preservation of at-risk data, we need different ways to communicate complex or obscure ideas and situations. By creating different representations, we can reach audiences across age, areas of interests, and ways of learning.&#x20;
 
