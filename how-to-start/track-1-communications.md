@@ -1,3 +1,9 @@
+---
+description: >-
+  This track considers the importance of telling and teaching others about the
+  vital work of preserving vulnerable data and digital records
+---
+
 # 🎙️ Track 1 (Communications)
 
 This track focuses on creating, revising, and sharing information about at-risk data. This includes adding context about collected data in order to improve management and findability of data for future purposes. The below are our initial goals coming from CALMA / Seattle-based efforts, but all participants are free to suggest and pursue other contributions.
@@ -6,10 +12,10 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 **Time Commitment:** minimal (\~1 hour)
 
-**Tasks Include:**
+**Tasks Include (highlighted below&#x20;**<mark style="background-color:purple;">**in purple):**</mark>
 
-1. Write letters to advocate for personal research deposits
-2. Contribute to research on public records laws&#x20;
+1. Write letters to advocate for individual researcher to deposit their research data
+2. Contribute to group research on public records laws&#x20;
 3. Share updates, news, or general takeaways with close friends, family, and peers
 4. Contribute description to captured or identified datasets _(tabled for January 22, 2025)_
 
