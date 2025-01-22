@@ -6,20 +6,20 @@ description: Step-by-step instructions
 
 Hello & welcome!
 
-Thank you for volunteering your time for this year’s Data Rescue (2025)! We appreciate your energy, enthusiasm, or whatever motivator brought you here. Now that you’ve read through the purpose, goals, and background of past and present data Rescues, we can get you started on contributing.
+Thank you for volunteering your time for this year’s Data Rescue (2025)! We appreciate your energy, enthusiasm, or whatever other motivator brought you here. Now that you’ve read through the purpose, goals, and background of past and present Data Rescues, we can get you started on contributing.
 
 Whether you are just now thinking about responding to current data risks and threats or you are involved in long term data preservation work, the possibilities for digital archival preservation abound. No matter your skill set, field of expertise, or interests, there is a digital archiving task for you!
 
 Now that you’ve reviewed the general expectations and background information, we ask all volunteers to following these steps to start:
 
-1. Read the [community agreements](../) page&#x20;
-2. Review track task (list below) to pick a path&#x20;
-3. When on chosen track Gitbook page (see sidebar or below), pick 1 task to start on
-4. Follow instructions for selected track/task under the "workflow" header to complete the task
-5. When done, add your completed task info using this [form](https://docs.google.com/forms/d/e/1FAIpQLSdTiK6Y6VZCgM7vZg4Mj3PDUIyxeKxecHOUzqcOtGh6AmbnCw/viewform?usp=header)
-6. Work on selected task (ask for clarification or help from Coordinators in purple💜)
-7. Once task has been completed, add completion status and relevant notes
-8. REPEAT steps 2-6 if you want to take on another task (or just say bye 👋🏼 if you need to leave)
+1. Read the [community agreements](../) page.&#x20;
+2. Review track summaries (below) to pick a path.&#x20;
+3. Navigate to the track Gitbook page (see sidebar drop down or below links),&#x20;
+4. Pick 1 task on the ones listed on your select track to begin (some may require installing tools)
+5. Follow instructions for selected task under the "workflow" header to complete the task
+6. Work on your selected task (ask for clarification or help from Coordinators)
+7. REPEAT steps 2-6 if you want to take on another task (or go to the LAST STEP to say bye)👋🏼&#x20;
+8. Submit an exit ticket (summary of all your work) using this [form](https://docs.google.com/forms/d/e/1FAIpQLSdTiK6Y6VZCgM7vZg4Mj3PDUIyxeKxecHOUzqcOtGh6AmbnCw/viewform?usp=header)
 
 ### Track List Options
 
