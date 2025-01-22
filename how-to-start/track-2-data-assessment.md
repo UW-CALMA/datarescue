@@ -86,6 +86,7 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 * Read [Dublin Core basic metadata manual](https://www.dublincore.org/specifications/dublin-core/usageguide/) to learn about the use of metadata for digital records (for explanation on selected metadata fields, see section 4. Elements)&#x20;
 * Navigate to the [Data Tracking List](https://docs.google.com/spreadsheets/d/1tOS7B3lgK-8wdgyhY81ntfICMIkGwAiHfeV63hi3UzU/edit?usp=sharing) sheet (stay on the first tab “EDIT TO THIS TABLE”)&#x20;
 * Select a row with an item that is marked as "Needs Metadata" (this info found in column K)&#x20;
+* Change row status to "In Progress - Metadata" for duration of your description work,
 * Fill-in descriptive text for your select row for all 5 metadata columns (these are columns P through U colored in teal blue)&#x20;
 * Use Data Tracking sheet for URL to find other information to create description&#x20;
 * When metadata has been entered, change status of row in column K to "Needs Checksum"
