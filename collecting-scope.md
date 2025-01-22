@@ -4,6 +4,7 @@ description: What are we collecting? Why?
 
 # 🗃️ Collecting Scope
 
+**Seattle Data Rescue Suggested Collection Criteria**\
 In an effort to continue advancing environmental advocacy, protection and actions, the Data Rescues in Seattle will focus on Climate Data with the following data themes and types (collecting scope):
 
 1. Geographic Parameters
@@ -31,4 +32,8 @@ Tangentially we include medical government records as we see clear connections a
 
 We have also chosen to prioritize federal government data due to the highly vocal apprehension from federal officials. We assume that given Washington State’s more supportive attitude towards environmental and climate science initiatives, there are fewer immediate threats compared to the federal government or other less supportive states.&#x20;
 
-\
+**Other Data Repository Collection Development Criteria**
+
+* End of Term - read [call for submission](https://blogs.loc.gov/thesignal/2024/07/nominations-sought-for-the-2024-2025-u-s-federal-government-domain-end-of-term-web-archive/) post
+* Internet Archive - [Collection Development](https://help.archive.org/help/internet-archive-collection-development-policy/) policy
+* University of Washington Library and Archives [Collection Development](https://lib.uw.edu/cas/collection-development-guiding-principles/) principles
