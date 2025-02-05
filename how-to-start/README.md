@@ -4,6 +4,10 @@ description: Step-by-step instructions
 
 # ⭐ How To Start
 
+{% hint style="info" %}
+As of January 24, 2025 we are NOT actively accepting contributions to our internal forms. Please continue reading for information on how to submit records to existing ongoing projects.
+{% endhint %}
+
 Hello & welcome!
 
 Thank you for volunteering your time for this year’s Data Rescue (2025)! We appreciate your energy, enthusiasm, or whatever other motivator brought you here. Now that you’ve read through the purpose, goals, and background of past and present Data Rescues, we can get you started on contributing.

@@ -4,6 +4,10 @@ description: READ ME FIRST! ⛵
 
 # 🛟 Data Rescues 2025
 
+{% hint style="info" %}
+As of January 24, 2025 we are NOT actively accepting contributions to our internal forms. Please continue reading for information on how to submit records to existing ongoing projects.
+{% endhint %}
+
 In response to political threats to social, environmental, health, and personal data, the [University of Washington Center for Advances in Libraries, Museums, and Archives (CALMA)](https://calma.ischool.uw.edu/) in collaboration with Seattle-based BKS Studio, is hosting a series of DATA RESCUE efforts. If you are also concerned about losing access to vital public government data and files, you are in the right place!
 
 Modeled after the 2016-2017 DataRescue movement that responded to hostile conditions towards environmental and climate science data, these ad hoc digital archiving volunteer events invite community members to apply their technical skills and social values in response to new threats to important data. While Data Rescues can focus on any type of at-risk public and government data, many have focused on environmental issues given[ documented threats and modifications](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246450) by recent political agendas.&#x20;

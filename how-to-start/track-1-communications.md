@@ -1,5 +1,9 @@
 # 🎙️ Track 1 (Communications)
 
+{% hint style="info" %}
+As of January 24, 2025 we are NOT actively accepting contributions to our internal forms. Please continue reading for information on how to submit records to existing ongoing projects.
+{% endhint %}
+
 This track focuses on creating, revising, and sharing information about at-risk data. This includes adding context about collected data in order to improve management and findability of data for future purposes. The below are our initial goals coming from CALMA / Seattle-based efforts, but all participants are free to suggest and pursue other contributions.
 
 **Tech Skill Level:** Beginner

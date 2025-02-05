@@ -1,5 +1,9 @@
 # 🕵️ Track 3 (Technical)
 
+{% hint style="info" %}
+As of January 24, 2025 we are NOT actively accepting contributions to our internal forms. Please continue reading for information on how to submit records to existing ongoing projects.
+{% endhint %}
+
 This track focuses on the actual capture of at-risk data in a variety of formats. As these tasks require the most technical knowledge, skills, and equipment, volunteers are encouraged to take this track when they are able to dedicate more time.
 
 **Tech Skill Level:** Advanced

@@ -1,4 +1,8 @@
-# 🔍 Track 2  (Data Assessment)
+# 🔍 Track 2 (Data Assessment)
+
+{% hint style="info" %}
+As of January 24, 2025 we are NOT actively accepting contributions to our internal forms. Please continue reading for information on how to submit records to existing ongoing projects.
+{% endhint %}
 
 This track focuses on finding and evaluating valuable and relevant at-risk data.This helps others be able to complete capturing tasks as they can depend on your “peer reviewed” assessment.
 
