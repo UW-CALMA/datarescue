@@ -4,6 +4,10 @@ description: what has happened since our January 2025 Seattle Data Rescues?
 
 # Updates
 
+{% hint style="info" %}
+This page was last updated on February 4, 2025
+{% endhint %}
+
 a lot. A LOT has happened.
 
 After our public education, peer collecting and collective description Data Rescue efforts, numerous changes have occurred. Many bad, some good.
@@ -44,6 +48,3 @@ https://www.google.com/url?sa=t\&source=web\&rct=j\&opi=89978449\&url=https://in
 Thousands of U.S. Government Web Pages Have Been Taken Down Since Friday [https://www.nytimes.com/2025/02/02/upshot/trump-government-websites-missing-pages.html](https://www.nytimes.com/2025/02/02/upshot/trump-government-websites-missing-pages.html)
 
 OMB Head Installs Illegal Server to Seize All Federal Workers’ Data [https://newrepublic.com/post/191075/elon-musk-power-grab-server-federal-worker-data](https://newrepublic.com/post/191075/elon-musk-power-grab-server-federal-worker-data)\
-
-
-**Education**\
