@@ -4,6 +4,10 @@ description: READ BEFORE STARTING YOUR CONTRIBUTION
 
 # 🙏 Community Agreements
 
+{% hint style="info" %}
+This is an example of the Community Agreements used for the Seattle Data Rescue. Customize as desired.
+{% endhint %}
+
 At Data Rescue events, we strive to support and create an environment that encourages all participants—organizers, supporters, any and all stakeholders to hold safe, engaging, and respectful environments where each person is able to focus as much of their energy on the Data Rescue’s intent.
 
 These are our suggested community agreements for all Data Rescue event as designed by the Collective Responsibility: [Code of Conduct and Community Agreement – Collective Responsibility](https://laborforum.diglib.org/code-of-conduct-and-community-agreement/). We ask all volunteers to help uphold these community practices and principles.&#x20;

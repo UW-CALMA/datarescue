@@ -6,6 +6,10 @@ description: >-
 
 # Readings
 
+{% hint style="info" %}
+You can also check out the [Updates](updates.md) page for more updated news regarding federal websites and data.
+{% endhint %}
+
 ClimateWire, S. W. (n.d.). Climate Web Pages Erased and Obscured under Trump. Scientific American. Retrieved January 3, 2025, from[ https://www.scientificamerican.com/article/climate-web-pages-erased-and-obscured-under-trump/](https://www.scientificamerican.com/article/climate-web-pages-erased-and-obscured-under-trump/)
 
 Dillon, L., Walker, D., Shapiro, N., Underhill, V., Martenyi, M., Wylie, S., Lave, R., Murphy, M., Brown, P., & Environmental Data and Governance Initiative. (2017). Environmental Data Justice and the Trump Administration: Reflections from the Environmental Data and Governance Initiative. Environmental Justice, 10(6), 186–192.[ https://doi.org/10.1089/env.2017.0020](https://doi.org/10.1089/env.2017.0020)

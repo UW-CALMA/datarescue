@@ -4,9 +4,6 @@ description: Step-by-step instructions
 
 # ⭐ How To Start
 
-{% hint style="info" %}
-As of January 24, 2025 we are NOT actively accepting contributions to our internal forms. Please continue reading for information on how to submit records to existing ongoing projects.
-{% endhint %}
 
 Hello & welcome!
 
@@ -16,14 +13,14 @@ Whether you are just now thinking about responding to current data risks and thr
 
 Now that you’ve reviewed the general expectations and background information, we ask all volunteers to following these steps to start:
 
-1. Read the [community agreements](../) page.&#x20;
+1. Read the [community agreements](../community-agreements.md) page.&#x20;
 2. Review track summaries (below) to pick a path.&#x20;
 3. Navigate to the track Gitbook page (see sidebar drop down or below links),&#x20;
 4. Pick 1 task on the ones listed on your select track to begin (some may require installing tools)
 5. Follow instructions for selected task under the "workflow" header to complete the task
 6. Work on your selected task (ask for clarification or help from Coordinators)
 7. REPEAT steps 2-6 if you want to take on another task (or go to the LAST STEP to say bye)👋🏼&#x20;
-8. Submit an exit ticket (summary of all your work) using this [form](https://docs.google.com/forms/d/e/1FAIpQLSdTiK6Y6VZCgM7vZg4Mj3PDUIyxeKxecHOUzqcOtGh6AmbnCw/viewform?usp=header)
+8. Submit an exit ticket (summary of all your work) using this form [**link to Work Completion Status Form**]
 
 ### Track List Options
 

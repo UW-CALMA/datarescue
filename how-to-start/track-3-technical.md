@@ -1,8 +1,5 @@
 # 🕵️ Track 3 (Technical)
 
-{% hint style="info" %}
-As of January 24, 2025 we are NOT actively accepting contributions to our internal forms. Please continue reading for information on how to submit records to existing ongoing projects.
-{% endhint %}
 
 This track focuses on the actual capture of at-risk data in a variety of formats. As these tasks require the most technical knowledge, skills, and equipment, volunteers are encouraged to take this track when they are able to dedicate more time.
 
@@ -44,9 +41,9 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 2. Download the a monitoring tool like:
    1. HTTP API tracker [https://github.com/edgi-govdata-archiving/web-monitoring-db](https://github.com/edgi-govdata-archiving/web-monitoring-db)&#x20;
    2. Comprehensive list of other tools here: [https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring)&#x20;
-3. Identify website to track using [this Data Tracking List](https://docs.google.com/spreadsheets/d/1tOS7B3lgK-8wdgyhY81ntfICMIkGwAiHfeV63hi3UzU/edit?usp=drive_link)&#x20;
+3. Identify website to track using [**link to Data Tracking List**])&#x20;
 4. Deploy tracker for selected website&#x20;
-5. Submit information about tracked website to [the Data Tracking form](https://docs.google.com/forms/d/e/1FAIpQLSfII-rl4yUcGPJlPWk9knWMhC_qBueJLEPcC7vphPeVisLhHA/viewform?usp=sf_link)
+5. Submit information about tracked website to [**link to the Data Tracking form**]
 
 **Skills Needed:** Advanced understanding of software deployment, APIs, and technical git repositories.&#x20;
 
@@ -56,7 +53,7 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 
 🗂️**Workflow**
 
-1. Identify a web file ready to [ready to be captured](https://docs.google.com/spreadsheets/d/1tOS7B3lgK-8wdgyhY81ntfICMIkGwAiHfeV63hi3UzU/edit?usp=sharing)
+1. Identify a web file ready to   ready to be captured [**link to Data Tracking List**]
 2. Update the "Status" cell that you are working on that row so that others will know that you are working on that web file
 3. Using web capture software (like [Conifer](https://guide.conifer.rhizome.org/)) pick an at-risk website that includes at-risk data
 4. Change the status on the same "Status" cell to notify that the web file/data has been archived and to avoid others from doing redundant work
@@ -73,10 +70,8 @@ This track focuses on the actual capture of at-risk data in a variety of formats
 2. Verify that downloadable datasets contain enough descriptive information (data files, interactive maps, etc.)&#x20;
 3. Capture dataset(s) to internal storage (temporary place)
 4. Submit and upload the dataset(s) via 1 of these options
-   1. FOR UW affiliates ONLY: [https://docs.google.com/forms/d/e/1FAIpQLSfk0pfq4NTxlxAy2cmA3RYVLatn-tMwzv5NljayYvXNv8dp6Q/viewform?usp=sharing](https://docs.google.com/forms/d/e/1FAIpQLSfk0pfq4NTxlxAy2cmA3RYVLatn-tMwzv5NljayYvXNv8dp6Q/viewform?usp=sharing) (URL to Google Drive or UW OneDrive)
-   2. FOR Non-UW Affiliates:
-      * Files up to 2 GB [https://wetransfer.com/](https://wetransfer.com/) Send to [snguye@uw.edu](mailto:snguye@uw.edu)&#x20;
-      * OR submit the URL of a downloadable folder via the exit tix [https://bit.ly/datarescue-bye](https://bit.ly/datarescue-bye)&#x20;
+   * Files up to 2 GB [https://wetransfer.com/](https://wetransfer.com/)&#x20;
+   * OR submit the URL of a downloadable folder via the exit tix [**link to Work Completion Form**]&#x20;
 5. You can delete dataset after successful transfer to Data Rescue coordinators
 
 🛠️**Skills Needed:** Intermediate understanding of different dataset types and file formats. Comfort with downloading and saving larger files.
@@ -93,13 +88,11 @@ This track focuses on the actual capture of at-risk data in a variety of formats
   * [checksum](https://corz.org/windows/software/checksum/): A file hashing application for Windows, a program that generates and verifies BLAKE2, SHA1 and MD5 hashes (aka. "MD5 Sums", or "digital fingerprints") of a file, a folder, or recursively.
   * There are a number of other tools, the above mentioned are examples (see Digital Preservation Coalition Digital Preservation Handbook above).
 * Ask the "data titan" coordinator to gain access to captured files
-* Use the [dataset tracking list ](https://docs.google.com/spreadsheets/d/1tOS7B3lgK-8wdgyhY81ntfICMIkGwAiHfeV63hi3UzU/edit?usp=drive_link)to check details to create checksum&#x20;
+* Use the [**link to Data Tracking List**] to check details to create checksum&#x20;
 * Run a check on the selected data to create the supplemental checksum value
 * Upload checksum file using (1 )of the following options
-  * FOR UW affiliates ONLY: [https://docs.google.com/forms/d/e/1FAIpQLSfk0pfq4NTxlxAy2cmA3RYVLatn-tMwzv5NljayYvXNv8dp6Q/viewform?usp=sharing](https://docs.google.com/forms/d/e/1FAIpQLSfk0pfq4NTxlxAy2cmA3RYVLatn-tMwzv5NljayYvXNv8dp6Q/viewform?usp=sharing) (URL to Google Drive or UW OneDrive)
-  * FOR Non-UW Affiliates:
     * Submit and upload the dataset(s) via 1 of these options
-      * Files up to 2 GB https://wetransfer.com/ Send to snguye@uw.edu&#x20;
-      * OR submit the URL of a downloadable folder via the exit tix https://bit.ly/datarescue-bye&#x20;
+      * Files up to 2 GB [https://wetransfer.com/](https://wetransfer.com/)&#x20;
+      * OR submit the URL of a downloadable folder via the exit tix [**link to Work Completion Form**]&#x20;
 
 🛠️**Skills Needed:** Best for those who have strong tech skills, attention to detail, and willingness to read the docs.

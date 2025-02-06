@@ -2,6 +2,10 @@
 description: What are we collecting? Why?
 ---
 
+{% hint style="info" %}
+This is an example of the Collecting Scope used for the Seattle Data Rescue. Customize as desired.
+{% endhint %}
+
 # 🗃️ Collecting Scope
 
 **Seattle Data Rescue Suggested Collection Criteria**\

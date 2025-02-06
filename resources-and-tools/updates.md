@@ -33,7 +33,7 @@ Other suggested alternatives include:\
 
 In a surprise move to no one, thousands of federal files, websites, and datasets were either removed, scrubbed, revised, or simply put offline. Crucial areas of research, teaching, and community knowing including life saving Public Health issues for marginalized populations in particular are experiencing ruthless obstruction of online information sharing. \
 \
-This year's extensive purging of government data is also a reaction by federal agencies to the disastrous January 2025 Executive Order to freeze government research funding until agencies can confirm that their work aligns with the new government's ideologies. For [UW updates ](https://www.washington.edu/provost/federal-policy-updates/)see Office of the Provost website
+This year's extensive purging of government data is also a reaction by federal agencies to the disastrous January 2025 Executive Order to freeze government research funding until agencies can confirm that their work aligns with the new government's ideologies.
 
 As many scramble to gain or give access to tampered websites and datasets, the following news articles are just a starting point.
 

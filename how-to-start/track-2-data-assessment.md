@@ -1,10 +1,6 @@
 # 🔍 Track 2 (Data Assessment)
 
-{% hint style="info" %}
-As of January 24, 2025 we are NOT actively accepting contributions to our internal forms. Please continue reading for information on how to submit records to existing ongoing projects.
-{% endhint %}
-
-This track focuses on finding and evaluating valuable and relevant at-risk data.This helps others be able to complete capturing tasks as they can depend on your “peer reviewed” assessment.
+This track focuses on finding and evaluating valuable and relevant at-risk data. This helps others be able to complete capturing tasks as they can depend on your “peer reviewed” assessment.
 
 **Tech Skill Level:** Intermediate
 
@@ -41,11 +37,10 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 * Review established collecting criteria to see if the webpage/website/dataset falls within this Data Rescue scope
   * NOTE: suggestions will be captured and/or deposited to 1 of the following repositories&#x20;
     * [End of Term](https://eotarchive.org/) (EoT) : Mostly includes and collects webpages and files related to specific presidential administrations
-    * [UW Web Archives](https://archive-it.org/organizations/729): More focused on Northwest regional history, University of Washington related work and studies, and labor relations
     * &#x20;[Internet Archive](https://archive.org/about/): more broad collecting scope. Tends to capture web content (meaning webpages or part of websites) Harder to upload actual files.&#x20;
 * Research, name, and document web pages (individual pages or a small batch of pages within a website.&#x20;
   * For a large quantity of web pages or complex large websites, see Track 3.
-* Submit basic information about the web page on [this Data Tracking Form](https://docs.google.com/forms/d/e/1FAIpQLSfII-rl4yUcGPJlPWk9knWMhC_qBueJLEPcC7vphPeVisLhHA/viewform?usp=sf_link).&#x20;
+* Submit basic information about the web page on this Data Tracking Form [**Link to Data Tracking Form**].&#x20;
 
 🛠️**Skills Needed:** Be able to browse through web pages to assess value or significance of content then be able to access a google form to submit assessment and basic metadata (details about the webpage/website)
 
@@ -56,7 +51,7 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 🗂️**Workflow**
 
 * Read [dublin core basic manual ](https://www.dublincore.org/specifications/dublin-core/usageguide/)to learn about the use of metadata for digital records (for explanation on selected metadata fields, see section 4. Elements)
-* Navigate to the [Data Tracking List ](https://docs.google.com/spreadsheets/d/1tOS7B3lgK-8wdgyhY81ntfICMIkGwAiHfeV63hi3UzU/edit?usp=sharing)sheet (stay on the first tab “EDIT TO THIS TABLE”)&#x20;
+* Navigate to the [**link to Data Tracking List**] sheet (stay on the first tab “EDIT TO THIS TABLE”)&#x20;
 * Select a row with an item that is marked as "Needs Metadata" (this info found in column K)
 * Fill-in descriptive text for your select row for all 5 metadata columns (these are columns P through U colored in teal blue)
 * Use Data Tracking sheet for title and URL to find other information to create description
@@ -70,7 +65,7 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 
 🗂️**Workflow:**&#x20;
 
-* Reference this [Data Tracking List - Data Rescue 2025 (Responses)](https://docs.google.com/spreadsheets/d/1tOS7B3lgK-8wdgyhY81ntfICMIkGwAiHfeV63hi3UzU/edit?usp=drive_link) that are ready for archiving
+* Reference this [**Link to Data Tracking Form**] that are ready for archiving
 * Select a row
 * Change row Status to “In-progress - Capture ”
 * To capture, decide if it goes to the Internet Archive or the End of Term project
@@ -88,7 +83,7 @@ This track focuses on finding and evaluating valuable and relevant at-risk data.
 🗂️ Workflow&#x20;
 
 * Read [Dublin Core basic metadata manual](https://www.dublincore.org/specifications/dublin-core/usageguide/) to learn about the use of metadata for digital records (for explanation on selected metadata fields, see section 4. Elements)&#x20;
-* Navigate to the [Data Tracking List](https://docs.google.com/spreadsheets/d/1tOS7B3lgK-8wdgyhY81ntfICMIkGwAiHfeV63hi3UzU/edit?usp=sharing) sheet (stay on the first tab “EDIT TO THIS TABLE”)&#x20;
+* Navigate to the [**link to Data Tracking List**] sheet (stay on the first tab “EDIT TO THIS TABLE”)&#x20;
 * Select a row with an item that is marked as "Needs Metadata" (this info found in column K)&#x20;
 * Change row status to "In Progress - Metadata" for duration of your description work,
 * Fill-in descriptive text for your select row for all 5 metadata columns (these are columns O through U colored in teal blue)&#x20;

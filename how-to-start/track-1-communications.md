@@ -1,10 +1,6 @@
 # 🎙️ Track 1 (Communications)
 
-{% hint style="info" %}
-As of January 24, 2025 we are NOT actively accepting contributions to our internal forms. Please continue reading for information on how to submit records to existing ongoing projects.
-{% endhint %}
-
-This track focuses on creating, revising, and sharing information about at-risk data. This includes adding context about collected data in order to improve management and findability of data for future purposes. The below are our initial goals coming from CALMA / Seattle-based efforts, but all participants are free to suggest and pursue other contributions.
+This track focuses on creating, revising, and sharing information about at-risk data. This includes adding context about collected data in order to improve management and findability of data for future purposes.
 
 **Tech Skill Level:** Beginner
 
@@ -37,7 +33,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
 
 🗂️**Workflow**
 
-1. Review the Digital Research Repository outreach template ([Download copy](https://docs.google.com/document/d/1OjEUMV00Kn1axqIBUlt44tFYCOSKDhIQXZzG8J3xIas/edit?usp=sharing) via this link)
+1. Review the Digital Research Repository outreach template ([See example from Seattle Data Rescue](https://docs.google.com/document/d/1OjEUMV00Kn1axqIBUlt44tFYCOSKDhIQXZzG8J3xIas/edit?usp=sharing) via this link)
 2. Find a researcher (& contact information) that you believe is conducting research in an area of significance.
 3. Customize template with your recipient's basic info (name, their area of focus like Climate Science or Environmental changes, ideas for what to deposit, and how it might benefit the researcher and/or their audiences)
 4. Send/distribute outreach message to selected recipient.
@@ -60,7 +56,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
    3. What other legislation exists that deals with preservation of at-risk data (USA or beyond)?
    4. How does the American public perceive government data loss?&#x20;
    5. How does this compare with other countries?
-4. Write a paragraph on your findings, reflections, or lingering questions onto the shared research google doc: [https://docs.google.com/document/d/1BH24Ks63J55K1jFmdUxUKubuqusCAxwU-9verrfjTbc/edit?usp=sharing](https://docs.google.com/document/d/1BH24Ks63J55K1jFmdUxUKubuqusCAxwU-9verrfjTbc/edit?usp=sharing)
+4. Write a paragraph on your findings, reflections, or lingering questions onto the shared research google doc: [**Link to Research Team Summaries**]
 
 🛠️**Skills Needed:** Basic command of English to either read or write summaries of findings. Intermediate to advanced levels of reading and writing in order to find, assess, and summarize findings for a general United States audience and English reader. Additional language skills would be useful for translation or finding global readings and data.&#x20;
 
@@ -76,7 +72,7 @@ This track focuses on creating, revising, and sharing information about at-risk 
   3. Are people on social media commenting on these removals?
   4. Are there back up copies on sites like the [Internet Archive](http://web.archive.org/), [End of Term](https://eotarchive.org/data/), [DataLumos](https://www.datalumos.org/datalumos/search/studies)?&#x20;
   5. How do these tactics of removing public federal information compare with other countries?
-* Write a paragraph on your findings, reflections, or lingering questions onto the shared research google doc: [https://docs.google.com/document/d/1BH24Ks63J55K1jFmdUxUKubuqusCAxwU-9verrfjTbc/edit?usp=sharing](https://docs.google.com/document/d/1BH24Ks63J55K1jFmdUxUKubuqusCAxwU-9verrfjTbc/edit?usp=sharing)
+* Write a paragraph on your findings, reflections, or lingering questions onto the shared research google doc: [**Link to Research Team Summaries**]
 
 #### <mark style="background-color:purple;">4. Create promotional text/images</mark>
 
